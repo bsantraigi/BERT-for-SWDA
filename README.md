@@ -19,11 +19,13 @@ numpy
 
 ## Results Table 
 
-| Model         | Epochs | Validation Accuracy           | Test Accuracy  |
-| ------------- |:-------------:| -----:|
-| Bert-Frozen      |  |  | |
-| Bert      |       |    | |
-| Transformer |       |  | |
+| Models         | Epochs | Validation Acc. | Test Acc. |
+|----------------|-------:|----------------:|----------:|
+| Transformer    |        |                 |           |
+| BERT-Frozen    |        |                 |           |
+| BERT           |        |                 |           |
+| Roberta-Frozen |        |                 |           |
+| Roberta        |        |                 |           |
 
 ## Credits
 The BERT finetuning script is based on the tutorial here https://skimai.com/fine-tuning-bert-for-sentiment-analysis/.
